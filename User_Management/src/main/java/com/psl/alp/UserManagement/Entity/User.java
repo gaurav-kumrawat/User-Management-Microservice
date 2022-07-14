@@ -21,9 +21,6 @@ public class User {
 	private String lastName;
 	
 	private String email;
-
-	@OneToMany
-	private List<String> licencesAvailable;
 	
 	public User() {
 		super();
