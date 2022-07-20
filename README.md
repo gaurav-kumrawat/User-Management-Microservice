@@ -19,7 +19,7 @@
 ### Delete a user using using userId  (Delete Request)
 - http://localhost:8100/api/v1/users/{userId}
 
-### Update a user using using userId  (Update Request)
+### Update a user using using userId  (Put Request)
 - http://localhost:8100/api/v1/users/{userId}
 ```
 {
